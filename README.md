@@ -1,7 +1,7 @@
 # Literalurasix
 
 ## Descrição
-Literalurasix é um projeto de gerenciamento de livros utilizando Spring Boot e PostgreSQL. Este projeto permite buscar, salvar e gerenciar livros e autores, fornecendo uma interface de linha de comando para interação com o usuário.
+Literalurasix é um projeto (proposto como desafio pelo Alura) de gerenciamento de livros utilizando Spring Boot e PostgreSQL. Este projeto permite buscar, salvar e gerenciar livros e autores, fornecendo uma interface de linha de comando para interação com o usuário.
 
 ## Instalação
 
